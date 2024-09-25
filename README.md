@@ -20,4 +20,4 @@ I completed my Bachelor's degree in Electrical & Electronics Engineering from JN
 - *Enter price complaint management*: This project is about handling customer related queries efficiently using salesforce cloud and its CRM funcanalities.
 
 ### Favourite Meme
-Here is the link to my favourite meme [Link] (https://www.google.com/url?sa=i&url=https%3A%2F%2Ftheconversation.com%2Fexplainer-what-are-memes-20789&psig=AOvVaw3y7TS_IlzlK1IKoeU9vXvi&ust=1727202053570000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiMkJvX2YgDFQAAAAAdAAAAABAE)
+Here is the link to my favourite meme [Link](https://images.theconversation.com/files/38926/original/5cwx89t4-1389586191.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=926&fit=clip)
